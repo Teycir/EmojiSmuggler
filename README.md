@@ -1,3 +1,4 @@
+
 # Emoji Smuggler 🕵️‍♂️
 
 A sleek, real-time web application that converts text into emoji sequences and back again. Perfect for encoding secret messages or just having fun with emoji-based communication!
@@ -77,6 +78,8 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 ## 📄 License
 
 Open source—feel free to use and modify as needed.
+
+[![Watch Demo](https://delivery.animaker.com/p/u/culko74438/thumbs/45562SUvvOZ9YpTzFqXxw.0000001.jpg)](https://app.getshow.io/iframe/media/BKBOqZgBD3QuxDuQSLnn)
 
 ---
 **Made with ❤️ by the Teycir**
