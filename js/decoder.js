@@ -1,21 +1,20 @@
-// Emoji decoding constants
-const ZERO = '⚫';
-const ONE = '⚪';
-
 /**
  * Decodes an emoji-encoded message back to text
  * @param {string} emoji_string - The emoji-encoded message
+ * @param {string} encodingType - The type of emoji encoding to use
  * @returns {string} - The decoded text message
  */
-function decode_from_emojis(emoji_string) {
+function decode_from_emojis(emoji_string, encodingType = 'binary') {
     if (!emoji_string) return '';
     
+    const { zero, one } = window.ENCODING_TYPES[encodingType];
     let binary_data = "";
+    
     for (let i = 0; i < emoji_string.length; i++) {
         const char = emoji_string[i];
-        if (char === ONE) {
+        if (char === one) {
             binary_data += '1';
-        } else if (char === ZERO) {
+        } else if (char === zero) {
             binary_data += '0';
         }
     }
