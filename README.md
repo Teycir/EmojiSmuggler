@@ -82,4 +82,4 @@ Open source—feel free to use and modify as needed.
 [![Watch Demo](https://delivery.animaker.com/p/u/culko74438/thumbs/45562SUvvOZ9YpTzFqXxw.0000001.jpg)](https://app.getshow.io/iframe/media/BKBOqZgBD3QuxDuQSLnn)
 
 ---
-**Made with ❤️ by the Teycir**
+**Made with ❤️ by Teycir**
