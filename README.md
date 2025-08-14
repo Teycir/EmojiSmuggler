@@ -1,7 +1,7 @@
 
 # Emoji Smuggler 🕵️‍♂️
 
-A sleek, real-time web application that converts text into emoji sequences and back again. Perfect for encoding secret messages or just having fun with emoji-based communication!
+A sleek, real-time web application that converts text into emoji sequences and back again. Perfect for encoding secret messages or just having fun with emoji-based communication! [https://teycir.github.io/EmojiSmuggler/](https://teycir.github.io/EmojiSmuggler/)
 
 ## 🚀 Features
 
